@@ -3,11 +3,17 @@
 
 
 ## Table of Contents
-* [About]()
-* Portfolio Projects
+* [About](https://github.com/gretapoc/Data-analyst-portfolio/blob/main/README.md#about)
+  - Education(https://github.com/gretapoc/Data-analyst-portfolio/blob/main/README.md#education)
+* Portfolio Projects(https://github.com/gretapoc/Data-analyst-portfolio/blob/main/README.md#portfolio-projects)
   - fdff
-* [Contacts]()
+* [Contacts](https://github.com/gretapoc/Data-analyst-portfolio/blob/main/README.md#contacts)
 
+
+
+# About
+
+### Education
 
 
 
