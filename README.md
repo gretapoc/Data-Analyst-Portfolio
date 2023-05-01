@@ -4,8 +4,8 @@
 
 ## Table of Contents
 * [About](https://github.com/gretapoc/Data-analyst-portfolio/blob/main/README.md#about)
-  - Education(https://github.com/gretapoc/Data-analyst-portfolio/blob/main/README.md#education)
-* Portfolio Projects(https://github.com/gretapoc/Data-analyst-portfolio/blob/main/README.md#portfolio-projects)
+  - [Education](https://github.com/gretapoc/Data-analyst-portfolio/blob/main/README.md#education)
+* [Portfolio Projects](https://github.com/gretapoc/Data-analyst-portfolio/blob/main/README.md#portfolio-projects)
   - fdff
 * [Contacts](https://github.com/gretapoc/Data-analyst-portfolio/blob/main/README.md#contacts)
 
