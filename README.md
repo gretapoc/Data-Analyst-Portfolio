@@ -1,8 +1,18 @@
 # Greta Pocevičiūtė - Data Analyst Portfolio
 
-LinkedIn: 
 
-# Portfolio projects
+
+## Table of Contents
+* [About]()
+* Portfolio Projects
+  - fdff
+* [Contacts]()
+
+
+
+
+
+# Portfolio Projects
 
 ### An Examination of Social and Economic Data Across Nations Worldwide Using Statistical Analysis
 
@@ -19,4 +29,12 @@ LinkedIn:
 **Skills:** Data analysis, data visualization
 
 **Technology:** R
+
+
+
+
+# Contacts
+
+LinkedIn: https://www.linkedin.com/in/gretapoceviciute01/
+
 
