@@ -12,4 +12,12 @@ LinkedIn:
 
 **Data:** [Download](https://github.com/gretapoc/Data-analyst-portfolio/blob/main/Socio-Economic%20Analysis%20of%20Countries%20Worldwide/Data.xlsx)
 
-**Goal:**
+**Goal:** The objective is to examine the socio-economic data of countries worldwide, analyze their diversity by identifying similarities and differences, and apply relevant statistical methods to accurately classify the resulting groups.
+
+**Description:**
+
+**Skills:** Data analysis, data visualization
+
+**Technology:** R
+
+**Results:** 
