@@ -15,8 +15,9 @@
 
 ### Education
 
-
-
+**Bachelor of Mathematical Sciences in Data Analysis Technologies**
+2018-2022
+Vilnius Gediminas Technical University
 
 # Portfolio Projects
 
