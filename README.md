@@ -6,9 +6,8 @@
 * [About](https://github.com/gretapoc/Data-analyst-portfolio/blob/main/README.md#about)
   - [Education](https://github.com/gretapoc/Data-analyst-portfolio/blob/main/README.md#education)
 * [Portfolio Projects](https://github.com/gretapoc/Data-analyst-portfolio/blob/main/README.md#portfolio-projects)
-  - fdff
+  - [An Examination of Social and Economic Data Across Nations Worldwide Using Statistical Analysis](https://github.com/gretapoc/Data-analyst-portfolio/blob/main/README.md#an-examination-of-social-and-economic-data-across-nations-worldwide-using-statistical-analysis)
 * [Contacts](https://github.com/gretapoc/Data-analyst-portfolio/blob/main/README.md#contacts)
-
 
 
 # About
@@ -16,7 +15,9 @@
 ### Education
 
 **Bachelor of Mathematical Sciences in Data Analysis Technologies**
+
 2018-2022
+
 Vilnius Gediminas Technical University
 
 # Portfolio Projects
