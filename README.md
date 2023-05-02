@@ -41,6 +41,6 @@ Vilnius Gediminas Technical University
 
 # Contacts
 
-LinkedIn: https://www.linkedin.com/in/gretapoceviciute01/
-
+LinkedIn: https://www.linkedin.com/in/gretapoceviciute01/<br>
+Gmail: gretapoceviciute01@gmail.com
 
