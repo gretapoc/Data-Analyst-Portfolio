@@ -32,7 +32,7 @@ Vilnius Gediminas Technical University
 
 **Data:** [Download the dataset](https://github.com/gretapoc/Data-analyst-portfolio/blob/main/Socio-Economic%20Analysis%20of%20Countries%20Worldwide/Data.xlsx)
 
-**Skills:** Data analysis, data visualization
+**Skills:** Data analysis, data visualization, data cleaning and organization, hierarchical cluster analysis, non-hierarchical cluster analysis, principal component analysis, hypothesis testing.
 
 **Technology:** R
 
