@@ -34,7 +34,7 @@ Vilnius Gediminas Technical University
 
 **Skills:** Data analysis, data visualization, data cleaning and organization, hierarchical cluster analysis, non-hierarchical cluster analysis, principal component analysis, hypothesis testing.
 
-**Technology:** R (data visualization: 'pheatmap', 'corrplot', 'rworldmap' packages; statistical analysis: 'xlsx', 'purrr', 'cluster', 'princomp', 'factoextra', 'psych' packages), Markdown.
+**Technology:** R, Markdown.
 
 
 
