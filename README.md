@@ -1,4 +1,4 @@
-# Greta Pocevičiūtė - Data Analyst Portfolio
+# Greta Pocevičiūtė - Portfolio
 
 
 
