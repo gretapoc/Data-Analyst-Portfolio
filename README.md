@@ -20,7 +20,7 @@ Vilnius Gediminas Technical University
 
 # Portfolio Projects
 
-### An Examination of Social and Economic Data Across Nations Worldwide Using Statistical Analysis
+### [An Examination of Social and Economic Data Across Nations Worldwide Using Statistical Analysis](https://github.com/gretapoc/Socio-Economic-Analysis-of-Countries-Worldwide)
 
 **Full project:** [Published on RPubs](https://rpubs.com/Gretapoc/Socio-Economic-Analysis-of-Countries)
 
@@ -36,6 +36,19 @@ Vilnius Gediminas Technical University
 
 **Technology:** R, Markdown.
 
+
+
+### [COVID-19 Analysis And Visualizations](https://github.com/gretapoc/COVID-19-Analysis-And-Visualizations)
+
+**Description:**
+
+**Code:** [See full SQL code for this project](https://github.com/gretapoc/COVID-19-Analysis-And-Visualizations/blob/main/COVID-19%20Analysis.sql)
+
+**Data:** [Download first CSV file](https://github.com/gretapoc/COVID-19-Analysis-And-Visualizations/blob/main/covid_deaths.csv) and [download second CSV file](https://github.com/gretapoc/COVID-19-Analysis-And-Visualizations/blob/main/covid_vaccinations.csv)
+
+**Skills:** Data exploration, data analysis, data visualization.
+
+**Technology:** SQL Server, Tableau.
 
 
 
