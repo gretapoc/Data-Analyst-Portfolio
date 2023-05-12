@@ -27,7 +27,7 @@ Vilnius Gediminas Technical University
 
 **Description:** The objective of this project is to examine the socio-economic data of countries worldwide, analyze their diversity by identifying similarities and differences, and apply relevant statistical methods to accurately classify the resulting groups.
 
-**Code:** [See full R code for this project](https://github.com/gretapoc/Data-analyst-portfolio/blob/main/Socio-Economic%20Analysis%20of%20Countries%20Worldwide/code.R)
+**Code:** [See full R code for this project](https://github.com/gretapoc/Socio-Economic-Analysis-of-Countries-Worldwide/blob/main/code.R)
 
 **Data:** [Download the dataset](https://github.com/gretapoc/Socio-Economic-Analysis-of-Countries-Worldwide/blob/main/Data.xlsx)
 
