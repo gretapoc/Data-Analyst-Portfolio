@@ -25,7 +25,7 @@ Vilnius Gediminas Technical University
 
 **Full project:** [Published on RPubs](https://rpubs.com/Gretapoc/Socio-Economic-Analysis-of-Countries)
 
-**Description:** The objective of this study is to analyze the socio-economic data of countries worldwide and classify them based on similarities and differences using relevant statistical methods. The dataset used for this study is sourced from the 2019 World Bank databases and has been thoroughly cleaned and organized. The statistical analysis involves several methods, including principal component analysis, hierarchical and non-hierarchical cluster analysis, and hypothesis testing.
+**Description:** The objective of this project is to examine the socio-economic data of countries worldwide, analyze their diversity by identifying similarities and differences, and apply relevant statistical methods to accurately classify the resulting groups.
 
 **Code:** [See full R code for this project](https://github.com/gretapoc/Data-analyst-portfolio/blob/main/Socio-Economic%20Analysis%20of%20Countries%20Worldwide/code.R)
 
@@ -38,7 +38,7 @@ Vilnius Gediminas Technical University
 
 ## [COVID-19 Analysis And Visualizations](https://github.com/gretapoc/COVID-19-Analysis-And-Visualizations)
 
-**Description:**
+**Description:** The objective of this project is to analyze COVID-19 data at both global and local levels by using SQL to explore and examine the data, and Tableau to create visual representations of the data.
 
 **Code:** [See full SQL code for this project](https://github.com/gretapoc/COVID-19-Analysis-And-Visualizations/blob/main/COVID-19%20Analysis.sql)
 
