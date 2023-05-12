@@ -1,4 +1,4 @@
-# Greta Pocevičiūtė - Portfolio
+# Greta Pocevičiūtė - Portfolio Guide
 
 
 
