@@ -3,12 +3,12 @@
 
 
 ## Table of Contents
-* [About](https://github.com/gretapoc/Data-analyst-portfolio/blob/main/README.md#about)
-  - [Education](https://github.com/gretapoc/Data-analyst-portfolio/blob/main/README.md#education)
-* [Portfolio Projects](https://github.com/gretapoc/Data-analyst-portfolio/blob/main/README.md#portfolio-projects)
-  - [An Examination of Social and Economic Data Across Nations Worldwide Using Statistical Analysis](https://github.com/gretapoc/Data-analyst-portfolio/blob/main/README.md#an-examination-of-social-and-economic-data-across-nations-worldwide-using-statistical-analysis)
-  - [COVID-19 Analysis And Visualizations](https://github.com/gretapoc/Data-Analyst-Portfolio#covid-19-analysis-and-visualizations)
-* [Contacts](https://github.com/gretapoc/Data-analyst-portfolio/blob/main/README.md#contacts)
+* [About](#about)
+  - [Education](#education)
+* [Portfolio Projects](#portfolio-projects)
+  - [An Examination of Social and Economic Data Across Nations Worldwide Using Statistical Analysis](#an-examination-of-social-and-economic-data-across-nations-worldwide-using-statistical-analysis)
+  - [COVID-19 Analysis And Visualizations](#covid-19-analysis-and-visualizations)
+* [Contacts](#contacts)
 
 
 # About
