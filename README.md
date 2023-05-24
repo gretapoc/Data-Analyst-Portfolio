@@ -49,6 +49,20 @@ Vilnius Gediminas Technical University
 **Tools:** SQL Server, Tableau
 
 
+## [Danny's Diner (Case Study)](https://github.com/gretapoc/8-Week-SQL-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner)
+
+**Description:** 
+
+**Code:** [See full SQL code for this case study](https://github.com/gretapoc/8-Week-SQL-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Danny's%20Diner.sql)
+
+**Skills:** Customer analysis
+
+**Tools:** SQL Server
+
+
+
+
+
 # Contacts
 
 LinkedIn: https://www.linkedin.com/in/gretapoceviciute01/<br>
