@@ -55,7 +55,7 @@ Vilnius Gediminas Technical University
 
 **Code:** [See full SQL code for this case study](https://github.com/gretapoc/8-Week-SQL-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Danny's%20Diner.sql)
 
-**Skills:** Customer analysis
+**Skills:** Table creation, data manipulation, aggregation, advanced querying.
 
 **Tools:** SQL Server
 
